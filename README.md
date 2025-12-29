@@ -12,4 +12,3 @@ Doo layers a thin DSL that facilitates polymorphic behaviour on top of bare Ruby
     gem install doo
 
 Check out examples/sample.rb to get started.
-
