@@ -13,4 +13,3 @@ Doo layers a thin DSL that facilitates polymorphic behaviour on top of bare Ruby
 
 Check out examples/sample.rb to get started.
 
-
